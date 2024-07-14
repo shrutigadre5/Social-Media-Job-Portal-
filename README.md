@@ -3,7 +3,7 @@
 This is a Social Media Platform to find jobs as well as hire talent.
 
 # Instructions:
-1) For the front end, use the following command: \n
+1) For the front end, use the command: 
    npm install
 
 2) After that, run:
